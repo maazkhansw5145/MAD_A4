@@ -1,0 +1,31 @@
+{
+  "cities": [
+    {
+      "city": "Mingora",
+      "country": "Pakistan",
+      "locations": [
+        {
+          "name": "Gabeen Jaba",
+          "description": "Tourism Spot"
+        },
+        {
+          "name": "Kalam",
+          "description": "Tourism Spot"
+        },
+        {
+          "location": "asdf",
+          "description": "adsf"
+        },
+        {
+          "location": "dasf",
+          "description": "adsf"
+        },
+        {
+          "name": "asd",
+          "description": "adf"
+        }
+      ],
+      "id": 1
+    }
+  ]
+}
